@@ -1,3 +1,4 @@
+# KR2: Суринов
 import os
 import socket
 
